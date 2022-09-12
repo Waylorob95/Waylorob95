@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning React-js.
 - 👯 I’m looking to collaborate on small projects build on React-js
 - 🤔 I’m looking for help with whatever I can help.
-- 📫 You can reach me via email: waylorob@gmail.com
+- 📫 You can reach me via email: stanimir.todorov95@gmail.com
 - ⚡ Fun fact: I am watching Naruto for over 14 years now.
