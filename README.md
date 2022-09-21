@@ -7,3 +7,5 @@
 - 🤔 I’m looking for help with whatever I can help.
 - 📫 You can reach me via email: stanimir.todorov95@gmail.com
 - ⚡ Fun fact: I am watching Naruto for over 14 years now.
+
+You can check my newly deployed project here: https://food-order-app-fd53e.web.app/
